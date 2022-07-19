@@ -7,12 +7,16 @@ function Sepacademy() {
   return (
         <div className="about-sep">
             <h1> Computers are changing everything......</h1>
+            <br></br>
             <p> From cell phones, GPS navigation systems, satellites, movies, to our SMART home systems ("Hey, Alexa, turn the light off please!"), our lives are changing in the speed of light. As so, technology affects every career field! We believe that every 21st century student should have a chance to learn about algorithms, how to make apps, and how the internet works, just like they learn about photosynthesis, the digestive system, or electricity.</p>
              <br></br>
             <p> In the SEP Pathway you will learn popular coding languages like Python, HTML, CSS and Javascript among others. You also have an opportunity to earn college credit through AP Computer Science Principles! In addittion to this, students will learn about soft skills to be the best candidate for any job, have CTE endorsement on their diploma and gain insight to how the real world operates by going on field trips and participating in internships.</p>
                  <br></br>
+                 <br></br>
                  <h2>Software Engineering Pathway Course Sequence</h2>
+                 <br></br>
                       <p>Take a look at our course sequence below to see what you will be learning about in each grade!</p>
+                      <br></br>
         <div className="card-bigcontainer">
         <Card
             imageUrl='https://snap.berkeley.edu/img/snap-byob.png' 
