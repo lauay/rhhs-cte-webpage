@@ -17,4 +17,4 @@ function Acard(props) {
             
 
 
-export default Acard; 
+export default Acard;
